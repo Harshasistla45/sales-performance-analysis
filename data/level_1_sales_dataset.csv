@@ -1,4 +1,3 @@
-Order_ID,Date,Country,Segment,Product,Discount_Band,Units_Sold,Manufacturing_Price,Sale_Price,Gross_Sales,Discounts,Sales,COGS,Profit,Month_Number,Month_Name,Year
-ORD-00001,2025-10-16,Canada,Government,Amarilla,Low,928,260,350.0,324800.0,6496.0,318304.0,241280,77024.0,10,October,2025
-ORD-00002,2025-11-23,United States,Government,VTT,Low,1744,250,320.0,558080.0,11161.6,546918.4,436000,110918.4,11,November,2025
-# ... (full 1200 rows would go here - truncated in this call for size; actual full content is available)
+# Placeholder
+# Full dataset (1201 rows) is available in the original zip.
+# Please upload the real level_1_sales_dataset.csv here.
